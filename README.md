@@ -1,11 +1,11 @@
 <h1 align="center">🖐️Hello! I'm Trey!</h1>
 
 ### What I'm Working On
-- 🖼️ Polishing and fixing bugs in my Full Stack Clone of [Medium](https://medium-clone-gufm.onrender.com)
+- 🖼️ Polishing and fixing bugs in my Full Stack Clone of <a href="https://medium-clone-gufm.onrender.com" target="blank">Medium</a> 
 - 📖 Interested in getting started in Open Source Code
 - 🎲 Making games in Roblox using Lua!
 
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/trey-pisano-1377a6227/)!
+Reach out to me on <a href="https://www.linkedin.com/in/trey-pisano-1377a6227" target="blank">Linkedin</a> 
 
 ## Check out my Repos!
 - [Premium](https://github.com/treypisano/Medium-clone-1-)
