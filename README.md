@@ -1,2 +1,2 @@
-# trey-pisano
+# treypisano
 This is my bio 
