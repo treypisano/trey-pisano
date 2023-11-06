@@ -2,7 +2,7 @@
 
 ### What I'm Working On
 - 🖼️ Polishing and fixing bugs in my Full Stack Clone of <a href="https://medium-clone-gufm.onrender.com" target="_blank">Medium</a> 
-- 📖 Interested in getting started in Open Source Code
+- 📖 I just merged into an open-source repo called [Blockly](https://github.com/google/blockly)!
 - 🎲 Making games in Roblox using Lua!
 
 Reach out to me on <a href="https://www.linkedin.com/in/trey-pisano-1377a6227" target="_blank">Linkedin</a> 
