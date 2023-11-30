@@ -1,9 +1,9 @@
 <h1 align="center">🖐️Hello! I'm Trey!</h1>
 
 ### What I'm Working On
-- 🖼️ Polishing and fixing bugs in my Full Stack Clone of <a href="https://medium-clone-gufm.onrender.com" target="_blank">Medium</a> 
 - 📖 I just merged into an open-source repo called [Blockly](https://github.com/google/blockly)!
-- 🎲 Making games in Roblox using Lua!
+- 🎲 I developed a feature for [HyperDX](https://github.com/hyperdxio/hyperdx/commit/e8c26d84fd259602c698e7510e2464b4d82e0929)
+- 🖼️ Polishing and fixing bugs in my Full Stack Clone of <a href="https://medium-clone-gufm.onrender.com" target="_blank">Medium</a> 
 
 Reach out to me on <a href="https://www.linkedin.com/in/trey-pisano-1377a6227" target="_blank">Linkedin</a> 
 
